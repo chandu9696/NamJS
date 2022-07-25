@@ -88,7 +88,7 @@
 // console.log(play['firstname'],play['age'])
 // play['nothing']=4;
 // play.kuchto='f'
-// console.log(play)
+// console.log(play)''
 
 const user={firstname:'a',lastname:'x',age:20}
 

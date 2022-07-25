@@ -95,3 +95,5 @@ const user={firstname:'a',lastname:'x',age:20}
 localStorage.setItem('user-info',JSON.stringify(user))
 
 console.log(JSON.parse(localStorage.getItem('user-info')))
+
+localStorage.setItem('my-info',JSON).stringify({name:'chandrakant'})
